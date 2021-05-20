@@ -19,3 +19,5 @@
 - re
 - nltk
 - cv2
+
+#### Deployment Git Repo <a href="https://github.com/Namanrockzzz/AI-Image-Captioning-bot-Deployment"> link </a>
